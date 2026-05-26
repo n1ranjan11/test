@@ -6,3 +6,6 @@ checking pull command functioning
 
 
 testing the branch function\
+
+add the test in real time
+origin test
